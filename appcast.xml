@@ -1,1 +1,19 @@
-
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>Loon Changelog</title>
+        <link>http://sparkle-project.org/files/sparkletestcast.xml</link>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title>Version 0.1 alpha</title>
+            <link>https://nsloon.app</link>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>0.1(17)</sparkle:shortVersionString>
+            <description>
+            <![CDATA[ <ul> <li>支持自动更新</li> </ul> ]]>
+            </description>
+            <pubDate>Sat, Aug 23 2025 13:27:11 +0000</pubDate>
+            <enclosure url="https://192.168.2.244:8080/raw/master/mac/Loon_alpha_17.dmg" length="31415617" type="application/octet-stream" sparkle:edSignature="WQhZUkg2pkkuaIrYafWMUwE8S8nDthZAhUIV35PQyytNnwh9KepKsiyoWjr0lNUAY4ZtPhTmRl+jH6Al2jmCCQ=="/>
+        </item>
+    </channel>
+</rss>
