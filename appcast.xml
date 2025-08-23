@@ -13,7 +13,7 @@
             <![CDATA[ <ul> <li>支持自动更新</li> </ul> ]]>
             </description>
             <pubDate>Sat, Aug 23 2025 13:27:11 +0000</pubDate>
-            <enclosure url="https://192.168.2.244:8080/raw/master/mac/Loon_alpha_17.dmg" length="31415617" type="application/octet-stream" sparkle:edSignature="WQhZUkg2pkkuaIrYafWMUwE8S8nDthZAhUIV35PQyytNnwh9KepKsiyoWjr0lNUAY4ZtPhTmRl+jH6Al2jmCCQ=="/>
+            <enclosure url="https://github.com/Loon0x00/Loon4Mac/releases/download/0.1(17)/Loon_alpha_17.dmg" length="31421263" type="application/octet-stream" sparkle:edSignature="LR2ASM+URFJh1CtzdaZQA6Z8ybiR6h31+dK0/l7xKwuyilrz73iWU4AqW0O3k/QKMV89QWAOjRelyxk7pukLCQ=="/>
         </item>
     </channel>
 </rss>
