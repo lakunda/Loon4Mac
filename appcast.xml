@@ -7,12 +7,12 @@
         <item>
             <title>Version 0.1 alpha</title>
             <link>https://nsloon.app</link>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>0.1(17)</sparkle:shortVersionString>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>0.1(18)</sparkle:shortVersionString>
             <description>
             <![CDATA[ <ul> <li>支持自动更新</li> </ul> ]]>
             </description>
-            <pubDate>Sat, Aug 23 2025 13:27:11 +0000</pubDate>
+            <pubDate>Sat, Aug 25 2025 13:27:11 +0000</pubDate>
             <enclosure url="https://github.com/Loon0x00/Loon4Mac/releases/download/0.1(18)/Loon_alpha_18.dmg" length="31424806" type="application/octet-stream" sparkle:edSignature="S+QUVXBMUVaf4qGxN7qXEc7a6d79hFxCFzdmjwFMmbD5JLreZYuzkI92dM61epULwvKTDW6AjnCvDHX6ZjXOCA=="/>
         </item>
     </channel>
